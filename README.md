@@ -2,11 +2,11 @@
 
 # PlatEMO
 [![](https://img.shields.io/badge/Version-Latest-yellow.svg)](https://github.com/BIMK/PlatEMO/archive/master.zip) 
-[![](https://img.shields.io/badge/Version-v2.0.0-green.svg)](https://github.com/BIMK/PlatEMO/releases/tag/PlatEMO_v2.0.0)
-[![](https://img.shields.io/badge/Matlab-%3E%3D%202014a%20-blue.svg)](#PlatEMO)
+[![](https://img.shields.io/github/release/BIMK/PlatEMO.svg)](https://github.com/BIMK/PlatEMO/releases/)
+[![](https://img.shields.io/badge/Matlab-%3E%3D%202014a%20-blue.svg)](#PlatEMO)  
 [![](https://img.shields.io/badge/Windows-Pass-brightgreen.svg)](#PlatEMO)
 [![](https://img.shields.io/badge/Linux-Validating-red.svg)](#PlatEMO)
-[![](https://img.shields.io/badge/MacOS-Pass-brightgreen.svg)](#PlatEMO)  
+[![](https://img.shields.io/badge/MacOS-Validating-lightred.svg)](#PlatEMO)  
 Evolutionary multi-objective optimization platform
 * 90+ open source evolutionary algorithms
 * 120+ open source multi-objective test problems
